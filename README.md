@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](assest/Bottom-up.svg)
 
 
 <!--   my-icons -->
